@@ -206,8 +206,4 @@ python main.py
 
 ## License
 
-[Your License Here]
-
-## Contributing
-
-[Your Contributing Guidelines Here] 
+MIT
